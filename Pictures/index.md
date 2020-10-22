@@ -1,12 +1,11 @@
 # Hikes
 
 [Appalachian Trail](#appalachian-trail)
-
-[National Parks](#headers)  
-[Australia](#headers)  
-[Germany](#headers)  
-[Israel](#headers)  
-[Random Hikes](#headers)  
+[National Parks](#national-parks)  
+[Australia](#australia)  
+[Germany](#germany)  
+[Israel](#israel)  
+[Random Hikes](#random-hikes)  
 
 
 
@@ -87,8 +86,6 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/99.jpg?raw=true" width="480">
 
 
-<a name="headers"/>
-
 ## National Parks
 
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/1.jpg?raw=true" width="480">
@@ -117,16 +114,12 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/24.jpg?raw=true" width="480">
 
 
-<a name="Australia"/>
-
 ## Australia
 
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Australia/1.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Australia/2.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Australia/3.jpg?raw=true" width="480">
 
-
-<a name="Germany"/>
 
 ## Germany
 
@@ -145,7 +138,6 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Germany/13.jpg?raw=true" width="480">
 
 
-<a name="Israel"/>
 
 ## Israel
 
@@ -157,7 +149,6 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Israel/6.jpg?raw=true" width="480">
 
 
-<a name="Random Hikes"/>
 
 ## Random Hikes
 
