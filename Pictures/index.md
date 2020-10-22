@@ -1,6 +1,7 @@
 # Hikes
 
-[Appalachian Trail](#headers)  
+[Appalachian Trail](#appalachian-trail)
+
 [National Parks](#headers)  
 [Australia](#headers)  
 [Germany](#headers)  
@@ -9,7 +10,6 @@
 
 
 
-<a name="headers"/>
 
 ## Appalachian Trail
 
