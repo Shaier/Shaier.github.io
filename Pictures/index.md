@@ -1,6 +1,6 @@
 # Hikes
 
-[Appalachian Trail](#appalachian-trail)
+[Appalachian Trail](#appalachian-trail) 
 [National Parks](#national-parks)  
 [Australia](#australia)  
 [Germany](#germany)  
@@ -89,28 +89,28 @@
 
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/1.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/2.JPG?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/3.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/4.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/5.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/6.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/7.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/8.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/9.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/10.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/11.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/12.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/13.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/14.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/15.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/16.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/17.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/18.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/19.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/20.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/21.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/22.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/23.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/24.jpg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/3.JPG?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/4.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/5.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/6.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/7.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/8.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/9.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/10.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/11.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/12.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/13.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/14.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/15.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/16.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/17.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/18.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/19.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/20.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/21.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/22.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/23.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/24.jpeg?raw=true" width="480">
 
 
 ## Australia
