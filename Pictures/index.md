@@ -3,7 +3,7 @@
 [Appalachian Trail](#headers)  
 
 
-<a name="headers"/>
+
 
 ## Appalachian Trail
 
