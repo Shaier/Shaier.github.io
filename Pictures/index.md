@@ -90,6 +90,8 @@
 
 ## National Parks
 
+<p float="left">
+
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/1.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/2.JPG?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/3.JPG?raw=true" width="480">
@@ -114,16 +116,21 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/22.jpeg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/23.jpeg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/24.jpeg?raw=true" width="480">
-
+</p>
 
 ## Australia
+
+<p float="left">
 
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Australia/1.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Australia/2.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Australia/3.jpg?raw=true" width="480">
+</p>
 
 
 ## Germany
+
+<p float="left">
 
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Germany/1.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Germany/2.jpg?raw=true" width="480">
@@ -138,10 +145,12 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Germany/11.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Germany/12.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Germany/13.jpg?raw=true" width="480">
-
+</p>
 
 
 ## Israel
+
+<p float="left">
 
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Israel/1.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Israel/2.jpg?raw=true" width="480">
@@ -149,10 +158,11 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Israel/4.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Israel/5.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/Israel/6.jpg?raw=true" width="480">
-
-
+</p>
 
 ## Random Hikes
+
+<p float="left">
 
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/1.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/2.jpg?raw=true" width="480">
@@ -165,3 +175,4 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/9.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/10.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/11.jpg?raw=true" width="480">
+</p>
