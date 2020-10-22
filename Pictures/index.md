@@ -4,7 +4,7 @@
 [National Parks](#headers)  
 [Australia](#headers)  
 [Germany](#headers)  
-[Israel](#headers)
+[Israel](#headers)  
 [Random Hikes](#headers)  
 
 
@@ -13,6 +13,7 @@
 
 ## Appalachian Trail
 
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/1.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/1.jpg?raw=true" width="480">
 
 
