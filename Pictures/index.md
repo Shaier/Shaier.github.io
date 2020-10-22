@@ -1,4 +1,4 @@
-<p style="text-align: center;">Hikes</p>
+# Hikes
 
 ##### Table of Contents  
 [Headers](#headers)  
