@@ -10,9 +10,7 @@
 
 ## Title
 
-  <img src="https://github.com/shaier.github.io//Pictures/1010203_761250447230452_2754831445791367525_n.jpg" width="256" title="Github Logo">
-
-![](1010203_761250447230452_2754831445791367525_n.jpg?raw=true)
+![](1010203_761250447230452_2754831445791367525_n.jpg?raw=true width="256")
 
 
 ## Title2
@@ -23,4 +21,5 @@
 
 
 <a name="emphasis"/>
+
 ## Emphasis
