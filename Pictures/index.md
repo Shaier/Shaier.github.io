@@ -87,12 +87,12 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/99.jpg?raw=true" width="480">
 
 
-<a name="National Parks"/>
+<a name="headers"/>
 
 ## National Parks
 
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/1.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/2.jpg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/2.JPG?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/3.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/4.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/5.jpg?raw=true" width="480">
