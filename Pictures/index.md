@@ -9,7 +9,7 @@
 
 
 
-<a href="#appalachian-trail">Appalachian Trail</a>
+## Appalachian Trail
 
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/1.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/2.jpg?raw=true" width="480">
