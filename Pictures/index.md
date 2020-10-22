@@ -103,7 +103,6 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/9.jpeg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/10.jpeg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/11.jpeg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/12.jpeg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/13.jpeg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/14.jpeg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/NationalParks/15.jpeg?raw=true" width="480">
@@ -169,8 +168,8 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/3.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/4.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/5.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/6.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/7.jpg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/6.jpeg?raw=true" width="480">
+<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/7.jpeg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/8.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/9.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/RandomHikes/10.jpg?raw=true" width="480">
