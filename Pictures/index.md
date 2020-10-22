@@ -1,6 +1,6 @@
 # Hikes
 
-[Headers](#Appalachian Trail)  
+[Headers](#headers)  
 
 
 <Appalachian Trail="headers"/>
