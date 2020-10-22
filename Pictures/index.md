@@ -79,7 +79,6 @@
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/64.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/65.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/66.jpg?raw=true" width="480">
-<img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/67.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/68.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/69.jpg?raw=true" width="480">
 <img src="https://github.com/Shaier/Shaier.github.io/blob/main/Pictures/AT/70.jpg?raw=true" width="480">
