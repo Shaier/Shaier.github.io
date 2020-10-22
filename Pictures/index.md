@@ -1,6 +1,6 @@
 # Hikes
 
-[Appalachian Trail](#appalachian-trail) 
+[Appalachian Trail](#appalachian-trail)   
 [National Parks](#national-parks)  
 [Australia](#australia)  
 [Germany](#germany)  
