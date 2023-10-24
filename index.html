@@ -78,21 +78,38 @@
 										</article>
 										
 										<article>
-											<a class="image"><img src="images/Transformer_Bias.png" width="1000" height="300" alt="Transformer-based Biomedical Question Answering Systems exhibit social bias. Knowledge graph based transformer,  " /></a>
+											<a class="image"><img src="images/Challenges_in_Personalized_Medicine.png" width="1000" height="300" alt="Transformer-based Biomedical Question Answering Systems exhibit social bias. Knowledge graph based transformer,  " /></a>
 											<div class="inner">
-												<h4>Transformer-based Biomedical Question Answering Systems Exhibit Social Biases</h4>
-												<p>State-of-the-art machine learning  approaches to question answering (QA) exhibit a variety of social biases (e.g., with respect to sex or race), generally explained by similar issues in their training data. However, it is unclear if such problems also affect models for the biomedical domain, which are trained on biomedical texts, which are widely believed to be unbiased. Selecting only questions on scientific and clinical topics whose answers do not depend on ethnicity, sex, or sexual orientation, we ask the following research questions: (RQ1) Do the models' answers change when being provided with (irrelevant) demographic information? (RQ2) Does the answer of RQ1 differ between KG-grounded and text-based QA systems? We find that irrelevant demographic information changes up to 15% of the answers of a KG-grounded system and up to 23% of the answers of a text-based system, including changes that affect accuracy. These results provide evidence that bias in biomedical QA systems is a pressing problem.</p>
+												<h4>Emerging Challenges in Personalized Medicine: Assessing Demographic
+													Effects on Biomedical Question Answering Systems</h4>
+												<p>State-of-the-art question answering (QA) models exhibit a variety of social biases (e.g., with respect to sex or race), generally explained by similar issues in their training data. However, what has been overlooked so far is that in the critical domain of biomedicine, any unjustified change in model output due to patient demographics is problematic: it results in the unfair treatment of patients. Selecting only questions on biomedical topics whose answers do not depend on ethnicity, sex, or sexual orientation, we ask the following research questions: (RQ1) Do the answers of QA models change when being provided with irrelevant demographic information? (RQ2) Does the answer of RQ1 differ between knowl- edge graph (KG)-grounded and text-based QA systems? We find that irrelevant demographic information change up to 15% of the answers of a KG-grounded system and up to 23% of the answers of a text-based system, including changes that affect accuracy. We conclude that unjustified answer changes caused by patient demographics are a frequent phenomenon, which raises fairness concerns and should be paid more attention to.</p>
 											</div>
 										</article>
-										
+
 										<article>
-											<a class="image"><img src="images/On_Language_Models_Medicine_and_Factuality.png" alt="Language Models Medicine and Factuality" /></a>
+											<a class="image"><img src="images/opinion_piece.png" width="1000" height="300" alt="Language models (LLMs) should cite their sources" /></a>
 											<div class="inner">
-												<h4>On Language Models Medicine and Factuality</h4>
-												<p>We introduce an algorithm for evaluating the factuality of biomedical language models. In contrast to previously proposed template-based strategies, we use naturally occurring text while still not requiring expert involvement. Our results highlight shortcomings of templates when evaluating factuality, as we find much larger differences between models that are trained from scratch and models that are finetuned on medical text. In addition and in contrast to previous evaluation methods, our approach indicates that all biomedical models outperform all vanilla models. Finally, we also find that pseudo-perplexity is not correlated with factuality and that more training data does not necessarily result in more factual output.
-</p>
+												<h4>Who Are All The Stochastic Parrots Imitating? They Should Tell Us!</h4>
+												<p>Both standalone language models (LMs) as well as LMs within downstream-task systems have been shown to generate statements which are factually untrue. This problem is especially severe for low-resource languages, where train- ing data is scarce and of worse quality than for high-resource languages. In this opinion piece, we argue that LMs in their current state will never be fully trustworthy in critical settings and suggest a possible novel strategy to handle this issue: by building LMs such that can cite their sources – i.e., point a user to the parts of their training data that back up their out- puts. We first discuss which current NLP tasks would or would not benefit from such models. We then highlight the expected benefits such models would bring, e.g., quick verifiability of statements. We end by outlining the individ- ual tasks that would need to be solved on the way to developing LMs with the ability to cite. We hope to start a discussion about the field’s current approach to building LMs, especially for low-resource languages, and the role of the training data in explaining model generations.</p>
+											</div>
+										</article>										
+
+										<article>
+											<a class="image"><img src="images/qa_desiderata.png" width="1000" height="300" alt="Language models (LLMs) should cite their sources" /></a>
+											<div class="inner">
+												<h4>Desiderata For The Context Use Of Question Answering Systems</h4>
+												<p>Prior work has uncovered a set of common problems in state-of-the-art context-based question answering (QA) systems: a lack of attention to the context when the latter conflicts with a model's parametric knowledge, little robustness to noise, and a lack of consistency with their answers. However, most prior work focus on one or two of those problems in isolation, which makes it difficult to see trends across them. We aim to close this gap, by first outlining a set of -- previously discussed as well as novel -- desiderata for QA models. We then survey relevant analysis and methods papers to provide an overview of the state of the field. The second part of our work presents  experiments where we evaluate 11 QA systems on 4 datasets according to all desiderata \textit{at once}. We find many novel trends, including (1) systems that are less susceptible to noise are not necessarily more consistent with their answers when given irrelevant context; (2) most systems that are more susceptible to noise are more likely to correctly answer according to a context that conflicts with their parametric knowledge; and (3) the combination of conflicting knowledge and noise can reduce system performance by up to $96\%$. As such, our desiderata help increase our understanding of how these models work and reveal potential avenues for improvements.</p>
 											</div>
 										</article>
+
+										<article>
+											<a class="image"><img src="images/template_vs_template_free.png" alt="Language Models Medicine and Factuality" /></a>
+											<div class="inner">
+												<h4>Comparing Template-based and Template-free Language Model Probing</h4>
+												<p>The differences between cloze-task language model (LM) probing with 1)  expert-made templates and 2) naturally-occurring text have often been overlooked. Here, we evaluate 16 different LMs on 10 probing datasets -- 4 template-based and 6 template-free -- in multiple domains to answer the following research questions: (RQ1) Do model rankings differ between the two approaches? (RQ2) Do models' absolute scores differ between the two approaches? (RQ3) Do the answers to RQ1 and RQ2 differ between general and domain-specific models? Our findings are: 1) Template-free and template-based approaches often rank models differently, except for the top domain-specific models. 2) Scores decrease by up to $42\%$ Acc@1 when comparing parallel template-free and template-based prompts. 3) Perplexity is negatively correlated with accuracy in the template-free approach, but, counter-intuitively, they are positively correlated for template-based probing. 4) Models tend to predict the same answers frequently across prompts for template-based probing, which is less common when employing template-free techniques.</p>
+											</div>
+										</article>
+
 										<article>
 											<a href="https://lettersinbiomath.journals.publicknowledgeproject.org/index.php/lib/article/view/513/325" class="image"><img src="images/covid_real_data_cumulative_cases.png" alt="Disease Informed Neural Networks. AI machine learning COVID/infectious diseases prediction" /></a>
 											<div class="inner">
