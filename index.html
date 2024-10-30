@@ -58,7 +58,7 @@
 									<p>Currently a PhD student at CU Boulder, advised by <a href="https://kelina.github.io/">Katharina Kann</a> and <a href="http://compbio.ucdenver.edu/hunter/">Larry Hunter</a>.</p>
 									</p><strong>Education</strong>: BSc in computational and applied mathematics with a focus on epidemiology, a minor in statistics, on the pre-med track.</p>
 									<p><strong>Research Interests</strong>: Artificial general intelligence, knowledge-enhanced question answering systems, continual learning, factuality, biologically-inspired algorithms.</p> 
-									</p><strong>Hobbies</strong>: outside of academia I spend most of my time practicing Muay Thai, hiking with my puppy, baking, snowboarding, and going on road trips.</p>									
+									</p><strong>Hobbies</strong>: outside of academia I spend most of my time practicing Muay Thai, hiking with my puppy (Buffy), baking, snowboarding, and scuba diving.</p>									
 								</div>
 							</section>
 
@@ -70,37 +70,29 @@
 									<div class="features">
 										
 										<article>
-											<a href="https://arxiv.org/pdf/2212.09252.pdf" class="image"><img src="images/Knowledge_enhanced_DS.png" width="300" height="300" alt="Survey Knowledge Enhanced Dialogue Systems. Factuality, Knowledge graphs " /></a>
+											<a href="https://arxiv.org/pdf/2410.08003" class="image"><img src="images/comet.png" width="300" height="300" alt="mixture of experts. sparsity. transfer learning. computer vision. language modeling. " /></a>
 											<div class="inner">
-												<h4>Mind the Knowledge Gap: A Survey of Knowledge-enhanced Dialogue Systems</h4>
-												<p>Many dialogue systems (DSs) lack characteristics humans have, such as emotion perception, factuality, and informativeness. Enhancing DSs with knowledge alleviates this problem, but, as many ways of doing so exist, keeping track of all proposed methods is difficult. Here, we present the first survey of knowledge-enhanced DSs. We define three categories of systems – internal, external, and hybrid – based on the knowledge they use. We survey the motivation for enhancing DSs with knowledge, used datasets, and methods for knowledge search, knowledge encoding, and knowledge incorporation. Finally, we propose how to improve existing systems based on theories from linguistics and cognitive science.</p>
-											</div>
-										</article>
-										
-										<article>
-											<a href="http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.36.pdf" class="image"><img src="images/Challenges_in_Personalized_Medicine.png" width="750" height="348" alt="Transformer-based Biomedical Question Answering Systems exhibit social bias. Knowledge graph based transformer,  " /></a>
-											<div class="inner">
-												<h4>Emerging Challenges in Personalized Medicine: Assessing Demographic
-													Effects on Biomedical Question Answering Systems</h4>
-												<p>State-of-the-art question answering (QA) models exhibit a variety of social biases (e.g., with respect to sex or race), generally explained by similar issues in their training data. However, what has been overlooked so far is that in the critical domain of biomedicine, any unjustified change in model output due to patient demographics is problematic: it results in the unfair treatment of patients. Selecting only questions on biomedical topics whose answers do not depend on ethnicity, sex, or sexual orientation, we ask the following research questions: (RQ1) Do the answers of QA models change when being provided with irrelevant demographic information? (RQ2) Does the answer of RQ1 differ between knowl- edge graph (KG)-grounded and text-based QA systems? We find that irrelevant demographic information change up to 15% of the answers of a KG-grounded system and up to 23% of the answers of a text-based system, including changes that affect accuracy. We conclude that unjustified answer changes caused by patient demographics are a frequent phenomenon, which raises fairness concerns and should be paid more attention to.</p>
+												<h4>More Experts Than Galaxies: Conditionally-overlapping Experts With Biologically-inspired Fixed Routing</h4>
+												<p>The evolution of biological neural systems has led to both modularity and sparse coding, which enables efficiency in energy usage, and robustness across the diversity of tasks in the lifespan. In contrast, standard neural networks rely on dense, non-specialized architectures, where all model parameters are simultaneously updated to learn multiple tasks, leading to representation interference. Current sparse neural network approaches aim to alleviate this issue, but are often hindered by limitations such as 1) trainable gating functions that cause representation collapse; 2) non-overlapping experts that result in redundant computation and slow learning; and 3) reliance on explicit input or task IDs that impose significant constraints on flexibility and scalability. In this paper we propose Conditionally Overlapping Mixture of ExperTs (COMET), a general deep learning method that addresses these challenges by inducing a modular, sparse architecture with an exponential number of overlapping experts. COMET replaces the trainable gating function used in Sparse Mixture of Experts with a fixed, biologically inspired random projection applied to individual input representations. This design causes the degree of expert overlap to depend on input similarity, so that similar inputs tend to share more parameters. This facilitates positive knowledge transfer, resulting in faster learning and improved generalization. We demonstrate the effectiveness of COMET on a range of tasks, including image classification, language modeling, and regression, using several popular deep learning architectures.</p>
 											</div>
 										</article>
 
 										<article>
-											<a href="http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-short/cdrom/pdf/2023.ijcnlp-short.13.pdf" class="image"><img src="images/opinion_piece.png" width="300" height="300" alt="Language models (LLMs) should cite their sources" /></a>
+											<a href="https://arxiv.org/pdf/2410.04241" class="image"><img src="images/adaptive.png" width="300" height="300" alt="factuality. citation generation. knowledge-enhanced LLMs. knowledge conflicts. question answering" /></a>
 											<div class="inner">
-												<h4>Who Are All The Stochastic Parrots Imitating? They Should Tell Us!</h4>
-												<p>Both standalone language models (LMs) as well as LMs within downstream-task systems have been shown to generate statements which are factually untrue. This problem is especially severe for low-resource languages, where train- ing data is scarce and of worse quality than for high-resource languages. In this opinion piece, we argue that LMs in their current state will never be fully trustworthy in critical settings and suggest a possible novel strategy to handle this issue: by building LMs such that can cite their sources – i.e., point a user to the parts of their training data that back up their out- puts. We first discuss which current NLP tasks would or would not benefit from such models. We then highlight the expected benefits such models would bring, e.g., quick verifiability of statements. We end by outlining the individ- ual tasks that would need to be solved on the way to developing LMs with the ability to cite. We hope to start a discussion about the field’s current approach to building LMs, especially for low-resource languages, and the role of the training data in explaining model generations.</p>
-											</div>
-										</article>										
-
-										<article>
-											<a href="https://arxiv.org/pdf/2401.18001.pdf" class="image"><img src="images/qa_desiderata.png" width="300" height="300" alt="Language models (LLMs) should cite their sources" /></a>
-											<div class="inner">
-												<h4>Desiderata For The Context Use Of Question Answering Systems</h4>
-												<p>Prior work has uncovered a set of common problems in state-of-the-art context-based question answering (QA) systems: a lack of attention to the context when the latter conflicts with a model's parametric knowledge, little robustness to noise, and a lack of consistency with their answers. However, most prior work focus on one or two of those problems in isolation, which makes it difficult to see trends across them. We aim to close this gap, by first outlining a set of -- previously discussed as well as novel -- desiderata for QA models. We then survey relevant analysis and methods papers to provide an overview of the state of the field. The second part of our work presents  experiments where we evaluate 11 QA systems on 4 datasets according to all desiderata at once. We find many novel trends, including (1) systems that are less susceptible to noise are not necessarily more consistent with their answers when given irrelevant context; (2) most systems that are more susceptible to noise are more likely to correctly answer according to a context that conflicts with their parametric knowledge; and (3) the combination of conflicting knowledge and noise can reduce system performance by up to 96$. As such, our desiderata help increase our understanding of how these models work and reveal potential avenues for improvements.</p>
+												<h4>Adaptive Question Answering: Enhancing Language Model Proficiency for Addressing Knowledge Conflicts with Source Citations</h4>
+												<p>Resolving knowledge conflicts is a crucial challenge in Question Answering (QA) tasks, as the internet contains numerous conflicting facts and opinions. While some research has made progress in tackling ambiguous settings where multiple valid answers exist, these approaches often neglect to provide source citations, leaving users to evaluate the factuality of each answer. On the other hand, existing work on citation generation has focused on unambiguous settings with single answers, failing to address the complexity of real-world scenarios. Despite the importance of both aspects, no prior research has combined them, leaving a significant gap in the development of QA systems. In this work, we bridge this gap by proposing the novel task of QA with source citation in ambiguous settings, where multiple valid answers exist. To facilitate research in this area, we create a comprehensive framework consisting of: (1) five novel datasets, obtained by augmenting three existing reading comprehension datasets with citation meta-data across various ambiguous settings, such as distractors and paraphrasing; (2) the first ambiguous multi-hop QA dataset featuring real-world, naturally occurring contexts; (3) two new metrics to evaluate models’ performances; and (4) several strong baselines using rule-based, prompting, and finetuning approaches over five large language models. We hope that this new task, datasets, metrics, and baselines will inspire the community to push the boundaries of QA research and develop more trustworthy and interpretable systems.</p>
 											</div>
 										</article>
+
+										<article>
+											<a href="https://aclanthology.org/2024.findings-acl.491.pdf" class="image"><img src="images/its_not.png" width="300" height="300" alt="question answering. reading comprehension. attention. prompting" /></a>
+											<div class="inner">
+												<h4>It Is Not About What You Say, It Is About How You Say It: A Surprisingly Simple Approach for Improving Reading Comprehension</h4>
+												<p>Natural language processing has seen rapid progress over the past decade. Due to the speed of developments, some practices get established without proper evaluation. Considering one such case and focusing on reading comprehension, we ask our first research question: 1) How does the order of inputs – i.e., question and context – affect model performance? Additionally, given recent advancements in input emphasis, we ask a second research question: 2) Does emphasizing either the question, the context, or both enhance performance? Experimenting with 9 large language models across 3 datasets, we find that presenting the context before the question improves model performance, with an accuracy increase of up to 31%. Furthermore, emphasizing the context yields superior results compared to question emphasis, and in general, emphasizing parts of the input is particularly effective for addressing questions that models lack the parametric knowledge to answer. Experimenting with both prompt-based and attention-based emphasis methods, we additionally find that the best method is surprisingly simple: it only requires concatenating a few tokens to the input and results in an accuracy improvement of up to 36%, allowing smaller models to outperform their significantly larger counterparts.</p>
+											</div>
+										</article>
+								
 
 										<article>
 											<a href="https://arxiv.org/pdf/2402.00123.pdf" class="image"><img src="images/template_vs_template_free.png" alt="Language Models Medicine and Factuality" /></a>
@@ -111,7 +103,41 @@
 										</article>
 
 										<article>
-											<a href="https://lettersinbiomath.org/index.php/lib/article/view/148/137" class="image"><img src="images/covid_real_data_cumulative_cases.png" alt="Disease Informed Neural Networks. AI machine learning COVID/infectious diseases prediction" /></a>
+											<a href="https://arxiv.org/pdf/2401.18001.pdf" class="image"><img src="images/desiderata.png" width="300" height="300" alt="Language models (LLMs) should cite their sources" /></a>
+											<div class="inner">
+												<h4>Desiderata For The Context Use Of Question Answering Systems</h4>
+												<p>Prior work has uncovered a set of common problems in state-of-the-art context-based question answering (QA) systems: a lack of attention to the context when the latter conflicts with a model's parametric knowledge, little robustness to noise, and a lack of consistency with their answers. However, most prior work focus on one or two of those problems in isolation, which makes it difficult to see trends across them. We aim to close this gap, by first outlining a set of -- previously discussed as well as novel -- desiderata for QA models. We then survey relevant analysis and methods papers to provide an overview of the state of the field. The second part of our work presents  experiments where we evaluate 11 QA systems on 4 datasets according to all desiderata at once. We find many novel trends, including (1) systems that are less susceptible to noise are not necessarily more consistent with their answers when given irrelevant context; (2) most systems that are more susceptible to noise are more likely to correctly answer according to a context that conflicts with their parametric knowledge; and (3) the combination of conflicting knowledge and noise can reduce system performance by up to 96$. As such, our desiderata help increase our understanding of how these models work and reveal potential avenues for improvements.</p>
+											</div>
+										</article>
+
+										<article>
+											<a href="http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-short/cdrom/pdf/2023.ijcnlp-short.13.pdf" class="image"><img src="images/opinion_piece.png" width="300" height="300" alt="Language models (LLMs) should cite their sources" /></a>
+											<div class="inner">
+												<h4>Who Are All The Stochastic Parrots Imitating? They Should Tell Us!</h4>
+												<p>Both standalone language models (LMs) as well as LMs within downstream-task systems have been shown to generate statements which are factually untrue. This problem is especially severe for low-resource languages, where train- ing data is scarce and of worse quality than for high-resource languages. In this opinion piece, we argue that LMs in their current state will never be fully trustworthy in critical settings and suggest a possible novel strategy to handle this issue: by building LMs such that can cite their sources – i.e., point a user to the parts of their training data that back up their out- puts. We first discuss which current NLP tasks would or would not benefit from such models. We then highlight the expected benefits such models would bring, e.g., quick verifiability of statements. We end by outlining the individ- ual tasks that would need to be solved on the way to developing LMs with the ability to cite. We hope to start a discussion about the field’s current approach to building LMs, especially for low-resource languages, and the role of the training data in explaining model generations.</p>
+											</div>
+										</article>										
+									
+										<article>
+											<a href="http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.36.pdf" class="image"><img src="images/Challenges_in_Personalized_Medicine.png" width="750" height="348" alt="Transformer-based Biomedical Question Answering Systems exhibit social bias. Knowledge graph based transformer,  " /></a>
+											<div class="inner">
+												<h4>Emerging Challenges in Personalized Medicine: Assessing Demographic
+													Effects on Biomedical Question Answering Systems</h4>
+												<p>State-of-the-art question answering (QA) models exhibit a variety of social biases (e.g., with respect to sex or race), generally explained by similar issues in their training data. However, what has been overlooked so far is that in the critical domain of biomedicine, any unjustified change in model output due to patient demographics is problematic: it results in the unfair treatment of patients. Selecting only questions on biomedical topics whose answers do not depend on ethnicity, sex, or sexual orientation, we ask the following research questions: (RQ1) Do the answers of QA models change when being provided with irrelevant demographic information? (RQ2) Does the answer of RQ1 differ between knowl- edge graph (KG)-grounded and text-based QA systems? We find that irrelevant demographic information change up to 15% of the answers of a KG-grounded system and up to 23% of the answers of a text-based system, including changes that affect accuracy. We conclude that unjustified answer changes caused by patient demographics are a frequent phenomenon, which raises fairness concerns and should be paid more attention to.</p>
+											</div>
+										</article>
+										
+										<article>
+											<a href="https://arxiv.org/pdf/2212.09252.pdf" class="image"><img src="images/DS_survey.png" width="300" height="300" alt="Survey Knowledge Enhanced Dialogue Systems. Factuality, Knowledge graphs " /></a>
+											<div class="inner">
+												<h4>Mind the Knowledge Gap: A Survey of Knowledge-enhanced Dialogue Systems</h4>
+												<p>Many dialogue systems (DSs) lack characteristics humans have, such as emotion perception, factuality, and informativeness. Enhancing DSs with knowledge alleviates this problem, but, as many ways of doing so exist, keeping track of all proposed methods is difficult. Here, we present the first survey of knowledge-enhanced DSs. We define three categories of systems – internal, external, and hybrid – based on the knowledge they use. We survey the motivation for enhancing DSs with knowledge, used datasets, and methods for knowledge search, knowledge encoding, and knowledge incorporation. Finally, we propose how to improve existing systems based on theories from linguistics and cognitive science.</p>
+											</div>
+										</article>
+										
+
+										<article>
+											<a href="https://arxiv.org/pdf/2110.05445" class="image"><img src="images/DINN.png" alt="Disease Informed Neural Networks. AI machine learning COVID/infectious diseases prediction" /></a>
 											<div class="inner">
 												<h4>Disease Informed Neural Networks</h4>
 												<p>We introduce Disease Informed Neural Networks (DINNs) — neural networks capable of learning how diseases spread, forecasting their progression, and finding their unique parameters (e.g. death rate). Here, we used DINNs to identify the dynamics of 11 highly infectious and deadly diseases. These systems vary in their complexity, ranging from 3D to 9D ODEs, and from a few parameters to over a dozen. The diseases include COVID, Anthrax, HIV, Zika, Smallpox, Tuberculosis, Pneumonia, Ebola, Dengue, Polio, and Measles.</p>
