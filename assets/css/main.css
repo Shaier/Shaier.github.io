@@ -2705,7 +2705,6 @@ input, select, textarea {
 		color: #d2f2e9;
 		height: 20%;
 		overflow-y: auto;
-		position: fixed;
 		text-align: center;
 		top: 0;
 		width: 100%;
