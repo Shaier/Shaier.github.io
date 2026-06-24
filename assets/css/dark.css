@@ -85,7 +85,6 @@ nav {
    ============================================================ */
 #hero {
   position: relative;
-  min-height: calc(100vh - var(--nav-h));
   display: flex;
   align-items: center;
   justify-content: center;
@@ -94,6 +93,7 @@ nav {
   background-image: url('../../images/brain_banner.png');
   background-size: cover;
   background-position: center;
+  padding: 6rem 0;
 }
 
 #hero::before {
