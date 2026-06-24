@@ -23,52 +23,23 @@
     </div>
   </nav>
 
-  <!-- Hero -->
-  <section id="hero">
-    <div class="hero-content">
-      <p class="hero-eyebrow">AI Researcher</p>
-      <h1>Sagi Shaier</h1>
-      <p class="hero-bio">
-        I'm an AI researcher focused on foundational problems — efficiency, sparsity, reasoning, transfer learning,
-        and continual learning — where progress ripples across the entire field rather than solving one narrow task.
-        I draw on insights from biological systems to discover simple, generalizable ideas. I care about both the
-        science and its real-world impact, and enjoy building research agendas from the ground up while collaborating
-        across disciplines to tackle problems that matter at scale.
-      </p>
-      <div class="hero-links">
-        <a href="https://www.linkedin.com/in/shaier/" class="hero-link" target="_blank" rel="noopener">
-          <i class="fab fa-linkedin"></i><span>LinkedIn</span>
-        </a>
-        <a href="https://github.com/shaier" class="hero-link" target="_blank" rel="noopener">
-          <i class="fab fa-github"></i><span>GitHub</span>
-        </a>
-        <a href="https://scholar.google.com/citations?user=paO-O00AAAAJ&hl=en&authuser=1&oi=sra" class="hero-link" target="_blank" rel="noopener">
-          <i class="fas fa-graduation-cap"></i><span>Scholar</span>
-        </a>
-        <a href="https://shaier.github.io/resume/Sagi_Shaier_Resume.pdf" class="hero-link" target="_blank" rel="noopener">
-          <i class="fas fa-file-alt"></i><span>Resume</span>
-        </a>
-        <a href="https://medium.com/@Shaier" class="hero-link" target="_blank" rel="noopener">
-          <i class="fab fa-medium"></i><span>Blog</span>
-        </a>
-      </div>
-    </div>
-  </section>
+  <!-- Banner -->
+  <section id="hero" aria-label="Brain banner"></section>
 
   <!-- About -->
   <section id="about">
     <div class="container">
       <div class="section-header">
-        <span class="section-label">Background</span>
         <h2>About Me</h2>
       </div>
       <div class="about-grid">
         <div class="about-text">
           <p>
-            I'm an AI researcher passionate about building language models that are efficient, trustworthy,
-            and practical. My work spans both theoretical and applied aspects of question answering, sparsity,
-            transfer learning, continual learning, and factuality — driven by the goal of creating real-world impact.
-            I'm especially interested in artificial general intelligence and biologically-inspired algorithms.
+            I'm an AI researcher focused on foundational problems — efficiency, sparsity, reasoning, transfer learning,
+            and continual learning — where progress ripples across the entire field rather than solving one narrow task.
+            I draw on insights from biological systems to discover simple, generalizable ideas. I care about both the
+            science and its real-world impact, and enjoy building research agendas from the ground up while collaborating
+            across disciplines to tackle problems that matter at scale.
           </p>
 
           <h3>Education</h3>
@@ -105,14 +76,17 @@
             <img src="images/excitation.png" alt="EXCITATION paper figure" />
           </div>
           <div class="paper-body">
-            <span class="venue-badge">Manuscript</span>
-            <h3>EXCITATION: Accelerating Sparse Architectures with Expert Utilization-Aware Optimization</h3>
+            <span class="venue-badge">arXiv 2026</span>
+            <h3>Excitation: Momentum For Experts</h3>
             <p class="paper-abstract">
               We propose EXCITATION, an optimizer-, domain-, and model-agnostic framework that dynamically modulates updates
               in sparse architectures using batch-level expert utilization. By amplifying highly-utilized experts and selectively
               suppressing low-utilization ones, EXCITATION sharpens routing specialization, rescues deep MoEs from structural
               confusion, and improves convergence speed and final performance across language and vision tasks.
             </p>
+            <a href="https://arxiv.org/pdf/2602.21798" class="paper-link" target="_blank" rel="noopener">
+              Read paper <i class="fas fa-arrow-right"></i>
+            </a>
           </div>
         </article>
 
@@ -121,7 +95,7 @@
             <img src="images/malamute.png" alt="MALAMUTE paper figure" />
           </div>
           <div class="paper-body">
-            <span class="venue-badge">Manuscript</span>
+            <span class="venue-badge">ACL Findings 2025</span>
             <h3>MALAMUTE: A Multilingual, Template-Free, Granular Educational Probing Dataset</h3>
             <p class="paper-abstract">
               We introduce MALAMUTE, the first education-based cloze-style dataset for evaluating course-related knowledge in
@@ -129,6 +103,9 @@
               Spanish, and Polish, MALAMUTE spans 33,361 curriculum concepts and 116,887 prompts, revealing significant subject-level
               knowledge gaps in masked and causal LMs.
             </p>
+            <a href="https://aclanthology.org/2025.findings-acl.209.pdf" class="paper-link" target="_blank" rel="noopener">
+              Read paper <i class="fas fa-arrow-right"></i>
+            </a>
           </div>
         </article>
 
@@ -137,14 +114,17 @@
             <img src="images/asking_again.png" alt="Asking Again paper figure" />
           </div>
           <div class="paper-body">
-            <span class="venue-badge">Manuscript</span>
-            <h3>Asking Again: Do Repeated Questions Improve Large Language Model Performance?</h3>
+            <span class="venue-badge">arXiv 2024</span>
+            <h3>Asking Again and Again: Exploring LLM Robustness to Repeated Questions</h3>
             <p class="paper-abstract">
               We study whether repeating questions inside prompts improves LLM reading comprehension. Across five recent models
               and three datasets, varying question repetition from one to five times can increase accuracy by up to 6%, but the
               effect is not statistically significant across models, settings, and datasets, suggesting repetition alone does not
               reliably improve output quality.
             </p>
+            <a href="https://arxiv.org/pdf/2412.07923" class="paper-link" target="_blank" rel="noopener">
+              Read paper <i class="fas fa-arrow-right"></i>
+            </a>
           </div>
         </article>
 
@@ -153,13 +133,16 @@
             <img src="images/lost_in_middle.png" alt="Lost in the Middle paper figure" />
           </div>
           <div class="paper-body">
-            <span class="venue-badge">Manuscript</span>
-            <h3>Lost in the Middle of Multi-Hop Question Answering</h3>
+            <span class="venue-badge">arXiv 2024</span>
+            <h3>Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA</h3>
             <p class="paper-abstract">
               We examine the lost-in-the-middle problem in multi-hop question answering, where multiple necessary pieces of
               information are spread across long inputs. Performance degrades with both distance from context edges and distance
               between supporting facts, while document compression and chain-of-thought prompting offer possible mitigation paths.
             </p>
+            <a href="https://arxiv.org/pdf/2412.10079" class="paper-link" target="_blank" rel="noopener">
+              Read paper <i class="fas fa-arrow-right"></i>
+            </a>
           </div>
         </article>
 
@@ -260,7 +243,7 @@
             <img src="images/opinion_piece.png" alt="Stochastic Parrots paper figure" />
           </div>
           <div class="paper-body">
-            <span class="venue-badge">IJCNLP 2023</span>
+            <span class="venue-badge">AACL 2023</span>
             <h3>Who Are All The Stochastic Parrots Imitating? They Should Tell Us!</h3>
             <p class="paper-abstract">
               We argue that language models in their current state will never be fully trustworthy in critical settings,
@@ -278,7 +261,7 @@
             <img src="images/Challenges_in_Personalized_Medicine.png" alt="Personalized Medicine paper figure" />
           </div>
           <div class="paper-body">
-            <span class="venue-badge">IJCNLP 2023</span>
+            <span class="venue-badge">AACL 2023</span>
             <h3>Emerging Challenges in Personalized Medicine: Assessing Demographic Effects on Biomedical QA Systems</h3>
             <p class="paper-abstract">
               We show that irrelevant patient demographic information changes up to 23% of answers in text-based QA systems
@@ -314,8 +297,8 @@
             <img src="images/DINN.png" alt="Disease Informed Neural Networks figure" />
           </div>
           <div class="paper-body">
-            <span class="venue-badge">arXiv 2021</span>
-            <h3>Disease Informed Neural Networks</h3>
+            <span class="venue-badge">Letters in Biomathematics 2022</span>
+            <h3>Data-driven approaches for predicting spread of infectious diseases through DINNs: Disease Informed Neural Networks</h3>
             <p class="paper-abstract">
               We introduce DINNs — neural networks capable of learning how diseases spread, forecasting their progression,
               and identifying unique epidemiological parameters such as death rates. Applied to 11 highly infectious diseases
