@@ -113,6 +113,8 @@ nav {
 }
 
 .hero-content h1 {
+  display: inline-block;
+  font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: clamp(3rem, 8vw, 5.5rem);
   font-weight: 700;
   line-height: 1.12;
