@@ -89,6 +89,38 @@ nav {
   background: url("../../images/brain_banner.png") center / cover no-repeat var(--bg);
 }
 
+.banner-links {
+  background: var(--bg);
+  padding: 1.75rem 2rem;
+}
+
+.hero-links {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.hero-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 1.1rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: border-color 0.2s, color 0.2s, background 0.2s;
+}
+
+.hero-link:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-dim);
+}
+
 /* ============================================================
    Shared section styles
    ============================================================ */
@@ -140,33 +172,6 @@ section {
   margin-bottom: 1.5rem;
   font-size: 1.05rem;
   line-height: 1.8;
-}
-
-.profile-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  margin: 0 0 2rem;
-}
-
-.profile-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.45rem;
-  padding: 0.5rem 1.1rem;
-  border-radius: 6px;
-  border: 1px solid var(--border);
-  background: var(--bg);
-  color: var(--muted);
-  font-size: 0.875rem;
-  font-weight: 500;
-  transition: border-color 0.2s, color 0.2s, background 0.2s;
-}
-
-.profile-link:hover {
-  border-color: var(--accent);
-  color: var(--accent);
-  background: var(--accent-dim);
 }
 
 .about-text h3 {
@@ -388,6 +393,8 @@ footer {
   .nav-inner { padding: 0 1.25rem; }
   .container { padding: 0 1.25rem; }
   #hero { height: 220px; }
-  .profile-links { gap: 0.5rem; }
-  .profile-link { padding: 0.55rem 0.8rem; }
+  .banner-links { padding: 1.5rem 1.25rem; }
+  .hero-links { gap: 0.5rem; }
+  .hero-link span { display: none; }
+  .hero-link { padding: 0.55rem 0.75rem; }
 }
