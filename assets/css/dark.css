@@ -81,38 +81,20 @@ nav {
 .nav-links a:hover { color: var(--text); }
 
 /* ============================================================
-   Banner
-   ============================================================ */
-.site-banner {
-  position: relative;
-  width: 100%;
-  display: block;
-  line-height: 0;
-}
-
-.site-banner img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-.site-banner-fade {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 55%;
-  background: linear-gradient(to bottom, transparent, var(--bg));
-}
-
-/* ============================================================
    Hero
    ============================================================ */
 #hero {
-  display: block;
-  background: var(--bg);
+  min-height: min(calc(100vw / 4), calc(100vh - var(--nav-h)));
+  display: grid;
+  place-items: center;
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(rgba(8, 13, 24, 0.58), rgba(8, 13, 24, 0.58)),
+    url("../../images/brain_banner.png") center / cover no-repeat,
+    var(--bg);
   text-align: center;
-  padding: 1rem 0 5rem;
+  padding: 4rem 0;
 }
 
 .hero-content {
@@ -447,7 +429,11 @@ footer {
   section { padding: 4rem 0; }
   .nav-inner { padding: 0 1.25rem; }
   .container { padding: 0 1.25rem; }
-  .hero-content { padding: 3rem 1.25rem; }
+  #hero {
+    min-height: 420px;
+    background-position: center;
+  }
+  .hero-content { padding: 0 1.25rem; }
   .hero-links { gap: 0.5rem; }
   .hero-link span { display: none; }
   .hero-link { padding: 0.55rem 0.75rem; }
