@@ -142,6 +142,33 @@ section {
   line-height: 1.8;
 }
 
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 0 0 2rem;
+}
+
+.profile-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 1.1rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--muted);
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: border-color 0.2s, color 0.2s, background 0.2s;
+}
+
+.profile-link:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-dim);
+}
+
 .about-text h3 {
   font-size: 0.85rem;
   font-weight: 600;
@@ -361,4 +388,6 @@ footer {
   .nav-inner { padding: 0 1.25rem; }
   .container { padding: 0 1.25rem; }
   #hero { height: 220px; }
+  .profile-links { gap: 0.5rem; }
+  .profile-link { padding: 0.55rem 0.8rem; }
 }
