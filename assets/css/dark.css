@@ -115,6 +115,8 @@ nav {
   transition: border-color 0.2s, color 0.2s, background 0.2s;
 }
 
+.hero-link-img { height: 1.1em; width: auto; }
+
 .hero-link:hover {
   border-color: var(--accent);
   color: var(--accent);
